@@ -1,0 +1,12 @@
+data/GCA_000002195.1_Amel_4.5_genomic.fna filter=lfs diff=lfs merge=lfs -text
+data/GCA_000002195.1_Amel_4.5_genomic.fna.fai filter=lfs diff=lfs merge=lfs -text
+data/alignments/SRR13397491.bam filter=lfs diff=lfs merge=lfs -text
+data/alignments/SRR13397491_sorted.bam filter=lfs diff=lfs merge=lfs -text
+data/alignments/SRR13397491_sorted.bam.bai filter=lfs diff=lfs merge=lfs -text
+data/alignments/honeybee.2.bt2 filter=lfs diff=lfs merge=lfs -text
+data/alignments/honeybee.rev.1.bt2 filter=lfs diff=lfs merge=lfs -text
+data/alignments/SRR13397491.sam filter=lfs diff=lfs merge=lfs -text
+data/alignments/honeybee.1.bt2 filter=lfs diff=lfs merge=lfs -text
+data/alignments/honeybee.3.bt2 filter=lfs diff=lfs merge=lfs -text
+data/alignments/honeybee.4.bt2 filter=lfs diff=lfs merge=lfs -text
+data/alignments/honeybee.rev.2.bt2 filter=lfs diff=lfs merge=lfs -text
