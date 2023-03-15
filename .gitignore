@@ -143,3 +143,5 @@ data/alignments/SRR13397491.sam
 data/alignments/SRR13397491_sorted.bam.bai
 data/alignments/honeybee.*
 data/alignments/
+data/GCA_000002195.1_Amel_4.5_genomic.fna.fai
+data/GCF_003254395.2_Amel_HAv3.1_genomic.gtf.gz
