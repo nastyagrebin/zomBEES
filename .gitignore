@@ -133,3 +133,12 @@ dmypy.json
 
 #Large data files
 data/fastq/
+data/fastq_filtered/
+data/fastq/
+data/alignments/SRR13397491.bam
+data/alignments/SRR13397491.sam
+data/alignments/SRR13397491_sorted.bam.bai
+data/alignments/SRR13397491.bam
+data/alignments/SRR13397491.sam
+data/alignments/SRR13397491_sorted.bam.bai
+data/alignments/honeybee.*
