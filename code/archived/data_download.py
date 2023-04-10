@@ -34,6 +34,6 @@ for sra_id in sra_numbers:
 # this will extract the .sra files from above into a folder named 'fastq'
 for sra_id in sra_numbers:
     print ("Generating fastq for: " + sra_id)
-    fastq_dump = "fasterq-dump --outdir fastq ./" + sra_id + "/" + sra_id + ".sra"
+    fastq_dump = "fasterq-dump --outdir ~/Vollumes/LaCie/zombees_data/fastq ./" + sra_id + "/" + sra_id + ".sra"
     print ("The command used was: " + fastq_dump)
     subprocess.call(fastq_dump, shell=True)
